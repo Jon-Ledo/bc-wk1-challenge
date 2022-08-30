@@ -16,3 +16,5 @@ Ex. /_ GLOBAL STYLES _/ is written, so the following code represents eveyrthign 
 /_ FONT FAMILY STYLES _/ is where my fonts are held
 
 etc etc...
+
+I also had to re-organize the file structure in order to make github Pages work. It was having trouble locating the index.html file, so I brought it out into the root.
